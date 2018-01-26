@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+## Test Site 
 
-You can use the [editor on GitHub](https://github.com/betsyq/betsyq.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can see my [personal site](https://www.betsym.org) for more info.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Running an experiment
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+This is an experiment in blah blah 
 
 # Header 1
 ## Header 2
